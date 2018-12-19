@@ -1,1 +1,3 @@
 # MSPhotosCropper
+
+![MSPhotosCropper](Screenshot.gif)
